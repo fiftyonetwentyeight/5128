@@ -13,7 +13,7 @@ git init
 # Initialized empty Git repository in /Users/you/Hello-World/.git/
 
 touch README
-# Creates a file called "README" in your Hello-World directory
+# Creates a file called "README" in your 5128 directory
 
 git add README
 # Stages your README file, adding it to the list of files to be committed
