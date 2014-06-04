@@ -3,7 +3,7 @@
 
 5128
 mkdir ~/5128
-# Creates a directory for your project called "Hello-World" in your user directory
+# Creates a directory for your project called "5128" in your user directory
 
 cd ~/5128
 # Changes the current working directory to your newly created directory
